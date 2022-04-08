@@ -1,10 +1,10 @@
 import * as React from "react";
-import Button from "../Button";
+import NewButton from "../ButtonNameChange";
 
 export default (
-  <Button
+  <NewButton
     uxpId="button"
     disabled={false}
     label="Button">
-  </Button>
+  </NewButton>
 );
