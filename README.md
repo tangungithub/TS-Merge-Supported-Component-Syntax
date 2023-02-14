@@ -1,4 +1,4 @@
-# TS-Merge-Supported-Component-Syntax
+# TS-Merge-Supported-Component-Syntax11
 
 UXPin Merge is a revolutionary technology that lets users import (and keep in sync) coded React.js components from GIT repositories to UXPin editor (https://uxpin.com).
 
